@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    background-color: lightblue;
+}
+
+article,
+footer {
+    background-color: lightgreen;
+    
+}
+
+article {
+    padding: 0 10px;
+
+}
+.flex-container {
+    display: flex;
+    gap: 10px;
+  }
+
+a {
+    text-decoration: none;
+    color: darkblue);
+}
+
+a:hover {
+    text-decoration: underline;
+}
